@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @raquelnsouza
-- 👀 I’m interested in Python, R, SQL, JavaScript.
+- I´m Data Analyst in Brazil.
+- 👀 I’m interested in Python, R, SQL.
